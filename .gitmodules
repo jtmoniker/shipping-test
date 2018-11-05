@@ -1,0 +1,6 @@
+[submodule "advanced-shipping"]
+	path = advanced-shipping
+	url = git@github.com:jtmoniker/advanced-shipping.git
+[submodule "canada-post"]
+	path = canada-post
+	url = git@github.com:jtmoniker/canada-post.git
